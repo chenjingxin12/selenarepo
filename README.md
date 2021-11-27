@@ -1,0 +1,2 @@
+# selenarepo
+some thoughts recording
